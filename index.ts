@@ -88,3 +88,4 @@ const getString: GetString = (text) => {
 
 const gettingString = getString(454);
 console.log(gettingString);
+
